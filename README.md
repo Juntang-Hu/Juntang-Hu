@@ -1,5 +1,5 @@
 ## 嗨 there 👋
-###📫 How to reach me:
+### 📫 How to reach me:
        Gmail: jimhu941203@gmail.com
        IG: juntang1203
 <!--
