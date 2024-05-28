@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## 嗨 there 👋
+###📫 How to reach me:
+       Gmail: jimhu941203@gmail.com
+       IG: juntang1203
 <!--
 **Juntang-Hu/Juntang-Hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
